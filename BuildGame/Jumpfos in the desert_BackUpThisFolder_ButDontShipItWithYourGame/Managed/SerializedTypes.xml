@@ -6,9 +6,9 @@
 		<type fullname="UnityEngine.Rendering.Universal.PostProcessData/ShaderResources" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.Rendering.Universal.PostProcessData/TextureResources" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.Rendering.Universal.XRSystemData/ShaderResources" preserve="nothing" serialized="true"/>
-		<type fullname="UnityEngine.Rendering.Universal.DepthOfFieldModeParameter" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.Experimental.Rendering.Universal.Light2DBlendStyle" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.Experimental.Rendering.Universal.Light2DBlendStyle/BlendFactors" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.Universal.DepthOfFieldModeParameter" preserve="nothing" serialized="true"/>
 	</assembly>
 	<assembly fullname="UnityEngine.TextCoreModule">
 		<type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true"/>
@@ -21,11 +21,11 @@
 		<type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true"/>
 		<type fullname="TMPro.KerningTable" preserve="nothing" serialized="true"/>
 		<type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true"/>
 		<type fullname="TMPro.TMP_GlyphPairAdjustmentRecord" preserve="nothing" serialized="true"/>
 		<type fullname="TMPro.TMP_GlyphAdjustmentRecord" preserve="nothing" serialized="true"/>
 		<type fullname="TMPro.TMP_GlyphValueRecord" preserve="nothing" serialized="true"/>
-		<type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true"/>
-		<type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true"/>
 		<type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true"/>
 		<type fullname="TMPro.TMP_Dropdown/OptionDataList" preserve="nothing" serialized="true"/>
 		<type fullname="TMPro.TMP_Dropdown/OptionData" preserve="nothing" serialized="true"/>
@@ -226,7 +226,11 @@
 		<type fullname="UnityEngine.U2D.Spline" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.U2D.SplineControlPoint" preserve="nothing" serialized="true"/>
 	</assembly>
+	<assembly fullname="Assembly-CSharp-firstpass">
+		<type fullname="ES3SerializableSettings" preserve="nothing" serialized="true"/>
+	</assembly>
 	<assembly fullname="Unity.RenderPipelines.Core.Runtime">
+		<type fullname="UnityEngine.Rendering.UI.DebugUIPrefabBundle" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.Rendering.ColorParameter" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.Rendering.Vector2Parameter" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.Rendering.ClampedFloatParameter" preserve="nothing" serialized="true"/>
@@ -235,10 +239,6 @@
 		<type fullname="UnityEngine.Rendering.ClampedIntParameter" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.Rendering.TextureParameter" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.Rendering.FloatParameter" preserve="nothing" serialized="true"/>
-		<type fullname="UnityEngine.Rendering.UI.DebugUIPrefabBundle" preserve="nothing" serialized="true"/>
-	</assembly>
-	<assembly fullname="Assembly-CSharp-firstpass">
-		<type fullname="ES3SerializableSettings" preserve="nothing" serialized="true"/>
 	</assembly>
 	<assembly fullname="Unity.Timeline">
 		<type fullname="UnityEngine.Timeline.SignalReceiver/EventKeyValue" preserve="nothing" serialized="true"/>
