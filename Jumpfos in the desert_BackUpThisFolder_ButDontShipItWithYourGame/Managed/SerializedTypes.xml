@@ -1,0 +1,305 @@
+<linker>
+	<assembly fullname="Unity.Localization">
+		<type fullname="UnityEngine.Localization.Metadata.MetadataCollection" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.LocaleIdentifier" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.Settings.CommandLineLocaleSelector" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.Settings.SystemLocaleSelector" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.Settings.SpecificLocaleSelector" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.Settings.LocalesProvider" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.Settings.LocalizedAssetDatabase" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.Settings.LocalizedStringDatabase" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.SmartFormat.SmartFormatter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.SmartFormat.Core.Settings.SmartSettings" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.SmartFormat.Core.Parsing.Parser" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.SmartFormat.Extensions.ListFormatter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.SmartFormat.Extensions.PersistentVariablesSource" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.SmartFormat.Extensions.DictionarySource" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.SmartFormat.Extensions.ValueTupleSource" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.SmartFormat.Extensions.XmlSource" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.SmartFormat.Extensions.ReflectionSource" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.SmartFormat.Extensions.DefaultSource" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.SmartFormat.Extensions.PluralLocalizationFormatter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.SmartFormat.Extensions.ConditionalFormatter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.SmartFormat.Extensions.TimeFormatter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.SmartFormat.Extensions.XElementFormatter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.SmartFormat.Extensions.ChooseFormatter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.SmartFormat.Extensions.SubStringFormatter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.SmartFormat.Extensions.IsMatchFormatter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.SmartFormat.Extensions.DefaultFormatter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.Tables.TableEntryData" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.Tables.SharedTableData/SharedTableEntry" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.Tables.DistributedUIDGenerator" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.Metadata.AssetTypeMetadata" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.LocalizedString" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.Tables.TableReference" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.Tables.TableEntryReference" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.Events.UnityEventString" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.LocalizedSprite" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Localization.Events.UnityEventSprite" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="Unity.RenderPipelines.Universal.Runtime">
+		<type fullname="UnityEngine.Experimental.Rendering.Universal.Light2DBlendStyle" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Experimental.Rendering.Universal.Light2DBlendStyle/BlendFactors" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.Universal.PostProcessData/ShaderResources" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.Universal.PostProcessData/TextureResources" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.Universal.ForwardRendererData/ShaderResources" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.Universal.StencilStateData" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.Universal.ScreenSpaceAmbientOcclusionSettings" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.Universal.XRSystemData/ShaderResources" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.Universal.DepthOfFieldModeParameter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.Universal.FilmGrainLookupParameter" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.UI">
+		<type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.EventSystems.EventTrigger/Entry" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.EventSystems.EventTrigger/TriggerEvent" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule">
+		<type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.TextCoreModule">
+		<type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="Unity.TextMeshPro">
+		<type fullname="TMPro.TMP_SpriteCharacter" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_SpriteGlyph" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_Sprite" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.KerningTable" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_GlyphPairAdjustmentRecord" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_GlyphAdjustmentRecord" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_GlyphValueRecord" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_Style" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_Dropdown/OptionDataList" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_Dropdown/OptionData" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_Dropdown/DropdownEvent" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="DOTween">
+		<type fullname="DG.Tweening.Core.DOTweenSettings/SafeModeOptions" preserve="nothing" serialized="true"/>
+		<type fullname="DG.Tweening.Core.DOTweenSettings/ModulesSetup" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="Assembly-CSharp-firstpass">
+		<type fullname="ES3SerializableSettings" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="FMODUnity">
+		<type fullname="FMODUnity.BankLoadType" preserve="nothing" serialized="true"/>
+		<type fullname="FMODUnity.ImportType" preserve="nothing" serialized="true"/>
+		<type fullname="FMODUnity.MeterChannelOrderingType" preserve="nothing" serialized="true"/>
+		<type fullname="FMODUnity.Legacy/Platform" preserve="nothing" serialized="true"/>
+		<type fullname="FMODUnity.Platform/PropertyStorage" preserve="nothing" serialized="true"/>
+		<type fullname="FMODUnity.Platform/PropertyBool" preserve="nothing" serialized="true"/>
+		<type fullname="FMODUnity.Platform/PropertyInt" preserve="nothing" serialized="true"/>
+		<type fullname="FMODUnity.Platform/PropertyString" preserve="nothing" serialized="true"/>
+		<type fullname="FMODUnity.Platform/PropertySpeakerMode" preserve="nothing" serialized="true"/>
+		<type fullname="FMODUnity.Platform/PropertyStringList" preserve="nothing" serialized="true"/>
+		<type fullname="FMODUnity.Platform/PropertyCallbackHandler" preserve="nothing" serialized="true"/>
+		<type fullname="FMODUnity.Platform/PropertyThreadAffinityList" preserve="nothing" serialized="true"/>
+		<type fullname="FMODUnity.Platform/PropertyCodecChannels" preserve="nothing" serialized="true"/>
+		<type fullname="FMODUnity.EventReference" preserve="nothing" serialized="true"/>
+		<type fullname="FMOD.GUID" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="Rewired_Core">
+		<type fullname="Rewired.ControllerElementIdentifier" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_DirectInput" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_RawOrDirectInput/MatchingCriteria" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_DirectInput_Base/Elements" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_DirectInput_Base/Axis" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareAxisInfo" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_DirectInput_Base/Button" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareButtonInfo" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_RawInput" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_RawInput_Base/Elements" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_RawInput_Base/Axis" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_RawInput_Base/Button" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_XInput" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_XInput_Base/MatchingCriteria" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_XInput_Base/Elements" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_XInput_Base/Axis" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_XInput_Base/Button" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_OSX" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_OSX_Base/MatchingCriteria" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_OSX_Base/Elements" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_OSX_Base/Axis" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_OSX_Base/Button" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_Linux" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_Linux_Base/MatchingCriteria" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_Linux_Base/Elements" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_Linux_Base/Axis" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_Linux_Base/Button" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_WindowsUWP" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_WindowsUWP_Base/MatchingCriteria" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_WindowsUWP_Base/Elements" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_WindowsUWP_Base/Axis" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_WindowsUWP_Base/Button" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_Fallback" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_Fallback_Base/MatchingCriteria" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_Fallback_Base/Elements" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_Fallback_Base/Axis" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_Fallback_Base/Button" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_PS5" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_PS5_Base/MatchingCriteria" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_PS5_Base/Elements" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_WebGL" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_WebGL_Base/MatchingCriteria" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_WebGL_Base/Elements" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_WebGL_Base/Axis" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_WebGL_Base/Button" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_XboxOne" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_XboxOne_Base/MatchingCriteria" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_XboxOne_Base/Elements" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_XboxOne_Base/Axis" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_XboxOne_Base/Button" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_GameCore" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_GameCore_Base/MatchingCriteria" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_GameCore_Base/Elements" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_PS4" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_PS4_Base/MatchingCriteria" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_PS4_Base/Elements" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_PS4_Base/Axis" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_PS4_Base/Button" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_NintendoSwitch" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_NintendoSwitch_Base/MatchingCriteria" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_NintendoSwitch_Base/Elements" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_NintendoSwitch_Base/Axis" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_NintendoSwitch_Base/Button" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_Stadia" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_Stadia_Base/MatchingCriteria" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_Stadia_Base/Elements" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_Stadia_Base/Axis" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_Stadia_Base/Button" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_InternalDriver" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_InternalDriver_Base/MatchingCriteria" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_InternalDriver_Base/Elements" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_SDL2" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_SDL2_Base/MatchingCriteria" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_SDL2_Base/Elements" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_SDL2_Base/Axis" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_SDL2_Base/Button" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_AppleGCController" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_AppleGCController_Base/MatchingCriteria" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_AppleGCController_Base/Elements" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_AppleGCController_Base/Axis" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_AppleGCController_Base/Button" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/CompoundElement" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_Linux_Base" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_Fallback_Base" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/MatchingCriteria_Base/ElementCount_Base" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_WebGL_Base/MatchingCriteria/ClientInfo" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_WebGL_Base" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_Custom/CustomCalculationSourceData" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/VidPid" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_InternalDriver_Base/Axis" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_InternalDriver_Base/Button" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_AppleGCController_Base/CompoundElement" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_AppleGCController_Base" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_RawInput_Base" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_OSX_Base" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_WindowsUWP_Base" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_DirectInput_Base" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_RawOrDirectInput/MatchingCriteria/ElementCount" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_OSX_Base/MatchingCriteria/ElementCount" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_Linux_Base/MatchingCriteria/ElementCount" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_WindowsUWP_Base/MatchingCriteria/ElementCount" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_PS5_Base/Axis" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_PS5_Base/Button" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_Fallback_Base/CustomCalculationSourceData" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_GameCore_Base/Axis" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_GameCore_Base/Button" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/AxisCalibrationInfoEntry" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.AxisCalibrationInfo" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickMap/Platform_RawOrDirectInput/CustomCalculationSourceData" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.ControllerTemplateElementIdentifier_Editor" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickTemplateMap/Entry" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickTemplateMap/ElementIdentifierMap" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.HardwareJoystickTemplateMap/SpecialElementEntry" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.UserData" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.ConfigVars" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.ConfigVars/PlatformVars_WindowsStandalone" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.ConfigVars/PlatformVars" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.ConfigVars/PlatformVars_OSXStandalone" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.ConfigVars/PlatformVars_WindowsUWP" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.ConfigVars/PlatformVars_PS5" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.ConfigVars/PlatformVars_GameCoreXboxOne" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.ConfigVars/PlatformVars_GameCoreScarlett" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.ConfigVars/PlatformVars_Stadia" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.ConfigVars/EditorVars" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Player_Editor" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Player_Editor/ControllerMapLayoutManagerSettings" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Player_Editor/ControllerMapEnablerSettings" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.InputAction" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.InputCategory" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.ActionCategoryMap" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.ActionCategoryMap/Entry" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.InputBehavior" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.InputMapCategory" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.InputLayout" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Mapping.ControllerMap_Editor" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.ActionElementMap" preserve="nothing" serialized="true"/>
+		<type fullname="Rewired.Data.Player_Editor/Mapping" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="Unity.RenderPipelines.Core.Runtime">
+		<type fullname="UnityEngine.Rendering.UI.DebugUIPrefabBundle" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.MinFloatParameter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.ClampedFloatParameter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.BoolParameter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.ClampedIntParameter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.ColorParameter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.TextureParameter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.Vector2Parameter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.FloatParameter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.NoInterpTextureParameter" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="Febucci.TextAnimator.Runtime">
+		<type fullname="Febucci.UI.TextAnimator/AppearancesContainer" preserve="nothing" serialized="true"/>
+		<type fullname="Febucci.UI.Core.AppearanceDefaultValues" preserve="nothing" serialized="true"/>
+		<type fullname="Febucci.UI.Core.AppearanceDefaultValues/Defaults" preserve="nothing" serialized="true"/>
+		<type fullname="Febucci.UI.Core.BehaviorDefaultValues" preserve="nothing" serialized="true"/>
+		<type fullname="Febucci.UI.Core.BehaviorDefaultValues/Defaults" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="Unity.Timeline">
+		<type fullname="UnityEngine.Timeline.SignalReceiver/EventKeyValue" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="MadTools.FpsInfo" preserve="nothing" serialized="true"/>
+		<type fullname="MadTools.MemoryInfo" preserve="nothing" serialized="true"/>
+		<type fullname="MadTools.RenderInfo" preserve="nothing" serialized="true"/>
+		<type fullname="MadTools.ErrorLogger" preserve="nothing" serialized="true"/>
+		<type fullname="MadTools.DataPath" preserve="nothing" serialized="true"/>
+		<type fullname="MadTools.DeveloperConsole" preserve="nothing" serialized="true"/>
+		<type fullname="MadTools.BenchmarkToolEvents" preserve="nothing" serialized="true"/>
+		<type fullname="MadTools.KeyListener" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="Cinemachine">
+		<type fullname="Cinemachine.LensSettings" preserve="nothing" serialized="true"/>
+		<type fullname="Cinemachine.CinemachineVirtualCameraBase/TransitionParams" preserve="nothing" serialized="true"/>
+		<type fullname="Cinemachine.CinemachineBrain/VcamActivatedEvent" preserve="nothing" serialized="true"/>
+		<type fullname="Cinemachine.CinemachineBlendDefinition" preserve="nothing" serialized="true"/>
+		<type fullname="Cinemachine.CinemachineBrain/BrainEvent" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="Unity.2D.SpriteShape.Runtime">
+		<type fullname="UnityEngine.U2D.Spline" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.U2D.SplineControlPoint" preserve="nothing" serialized="true"/>
+	</assembly>
+</linker>
